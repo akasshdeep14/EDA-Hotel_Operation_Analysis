@@ -1,3 +1,35 @@
 ### Hotel Operation Dataset Analysis Summary
 
-The analysis of the Hotel Harmony dataset reveals critical patterns influencing booking demand, cancellation behavior, pricing strategies, and overall guest satisfaction. City Hotels experience higher booking volumes due to their location convenience and accessibility, whereas Resort Hotels generate higher revenue per stay, particularly during peak and holiday seasons. Clear seasonal demand fluctuations highlight the importance of dynamic pricing strategies, targeted seasonal promotions, and effective capacity planning.Cancellation behavior is strongly influenced by longer lead times, booking modifications, and flexible or low-deposit policies. Guests who book well in advance exhibit a higher likelihood of cancellation, indicating increased uncertainty in travel plans. Implementing partial prepayments or stricter cancellation terms for high lead-time bookings can help mitigate last-minute revenue losses. Additionally, Average Daily Rate (ADR) varies significantly by season and guest composition, underscoring the need for pricing optimization based on market segments, group size, and family-oriented travel patterns.The analysis further shows that guests requesting a higher number of special services tend to have lower cancellation rates, suggesting that personalization enhances guest commitment and satisfaction. Promoting customized offerings and value-added services can therefore improve guest loyalty, reduce booking churn, and strengthen long-term customer relationships.
+Booking Demand & Revenue Trends
+
+1.City Hotels attract more bookings because they are more convenient and accessible.
+
+2.Resort Hotels generate higher revenue per stay, especially during holidays and peak seasons.
+
+3.Booking demand changes significantly across seasons, showing the need for:
+
+4.Dynamic pricing
+
+5.Seasonal promotions
+
+6.Smart capacity planning
+
+Seasonality & Pricing Strategy
+
+1.Demand rises during peak and holiday periods, requiring adjusted pricing strategies.
+
+2.Average Daily Rate (ADR) varies based on:
+
+3.Season
+
+4.Guest type
+
+5.Group size
+
+Guest Experience & Loyalty Insights
+
+Guests who request more special services are less likely to cancel.This suggests that personalization increases commitment and satisfaction.Offering customized experiences and value-added services can:Improve guest loyalty.Reduce booking churn.Strengthen long-term customer relationships
+
+Family vs solo travelers
+
+This highlights the importance of segment-based pricing optimization to maximize revenue.
