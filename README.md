@@ -1,35 +1,12 @@
 ### Hotel Operation Dataset Analysis Summary
 
-Booking Demand & Revenue Trends
+The Hotel Harmony dataset analysis uncovers actionable insights into booking patterns, cancellations, and revenue optimization for city and resort hotels. These findings support strategic adjustments in pricing, policies, and guest services to boost profitability and satisfaction.
 
-1.City Hotels attract more bookings because they are more convenient and accessible.
+Hotel Type Differences
+City Hotels draw higher booking volumes thanks to prime locations and business demand. Resort Hotels yield greater revenue per stay, particularly in peak seasons, making them ideal for premium pricing strategies. This split guides targeted marketing and capacity allocation.
 
-2.Resort Hotels generate higher revenue per stay, especially during holidays and peak seasons.
+Cancellation Drivers
+Long lead times and modifiable bookings spike cancellation rates, as early reservations often face life changes. Low-deposit options further encourage no-shows, suggesting partial payments or tighter policies for advance bookings. Special requests correlate with lower churn, signaling that personalization fosters commitment.
 
-3.Booking demand changes significantly across seasons, showing the need for:
-
-4.Dynamic pricing
-
-5.Seasonal promotions
-
-6.Smart capacity planning
-
-Seasonality & Pricing Strategy
-
-1.Demand rises during peak and holiday periods, requiring adjusted pricing strategies.
-
-2.Average Daily Rate (ADR) varies based on:
-
-3.Season
-
-4.Guest type
-
-5.Group size
-
-Guest Experience & Loyalty Insights
-
-Guests who request more special services are less likely to cancel.This suggests that personalization increases commitment and satisfaction.Offering customized experiences and value-added services can:Improve guest loyalty.Reduce booking churn.Strengthen long-term customer relationships
-
-Family vs solo travelers
-
-This highlights the importance of segment-based pricing optimization to maximize revenue.
+Pricing and Trends
+Average Daily Rate (ADR) varies by season, guest type (e.g., families), and market segments, advocating dynamic adjustments. Peak demand calls for promotions and planning, while off-peak focuses on value adds. These patterns, drawn from standard hospitality benchmarks like ADR and RevPAR, enable loyalty-building and loss reduction.
